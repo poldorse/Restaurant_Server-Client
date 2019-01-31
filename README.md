@@ -4,6 +4,6 @@ This practice consists of the programming of three processes data, server and cl
 
 # What I learned
 
-  •  Full development of back-end project.\n
-  •  Interconnecting server, client and data. For this reason, concepts such as threads, sockets, semaphores, files, etc. were touched.\n
+  •  Full development of back-end project.
+  •  Interconnecting server, client and data. For this reason, concepts such as threads, sockets, semaphores, files, etc. were touched.
   •  Unix programming with basic commands with C. 
